@@ -1,2 +1,3 @@
 Gripper CAD
-![Screenshot 2022-10-01 125154](https://user-images.githubusercontent.com/78358962/194262853-e2cc0682-a099-450f-a5d6-1030d6a7f608.png)
+![image](https://user-images.githubusercontent.com/78358962/194269818-d7796131-9c17-45bb-bc36-a13002aa2806.png)
+
