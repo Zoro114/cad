@@ -13,3 +13,8 @@ Bot for Robowar
 Hover Craft
 
 ![preview](https://github.com/Zoro114/cad/assets/78358962/b497ccee-2bc2-4750-8c0e-ab72c49f4086)
+
+A simple model of my smartphone
+
+![image](https://github.com/Zoro114/cad/assets/78358962/4ea86ec4-a0a6-4f9d-839f-37b84bf20ffa)
+
